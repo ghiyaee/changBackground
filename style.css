@@ -46,8 +46,8 @@ border :5px solid rgb(105, 31, 224);
 
 .conter{
     position: absolute;
-    bottom:64%;
-    left:15px;
+    bottom:25%;
+    left:48%;
      font-family: 'Courier New';
      font-weight: bold;
 }
